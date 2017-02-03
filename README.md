@@ -5,7 +5,7 @@
      </title>     
      </head>
      <body>
-    那就，按照游戏规则生活吧。<br>
+    <center> 那就，按游戏规则生活吧。<br>
      </body>
      </html>
      
