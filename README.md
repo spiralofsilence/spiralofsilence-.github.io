@@ -17,8 +17,8 @@
      <br>
      <br>
      <br>
-    <center> 那就，</center><br>
-    <center>按游戏规则生活吧。</center><br>
+    <center> 可是fyw，</center><br>
+    <center>我喜欢你呀。</center><br>
      </body>
      </html>
      
