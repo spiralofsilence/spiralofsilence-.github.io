@@ -22,7 +22,7 @@
     <center> 我亦留此地</center><br>
      <br>
      <br>
-<img src="http://b269.photo.store.qq.com/psb?/V11ACVWs3c84Jk/eBNeioMG1fQxfu7*BXQRBgLxNS96UWVe5taDFQFz.fM!/c/dA0BAAAAAAAA&bo=AAWqBgAAAAARAJ4!" width="200" height="200">
+
 </body>
 </html>
      
