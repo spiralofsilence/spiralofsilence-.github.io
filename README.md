@@ -1,8 +1,5 @@
 
-<!DOCTYPE html>
-<!--[if IE 6]>
 <html id="ie6" lang="zh-CN">
-<![endif]-->
 <!--[if IE 7]>
 <html id="ie7" lang="zh-CN">
 <![endif]-->
