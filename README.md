@@ -11,7 +11,7 @@
      <br>
      <br>
      <br>
-    <center> 我亦留此地</center><br>
+    <center> 我亦留此地。</center><br>
      <br>
      <br>
 </body>
