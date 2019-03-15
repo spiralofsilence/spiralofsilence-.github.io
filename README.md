@@ -10,5 +10,8 @@
     <center> 我亦留此地。</center><br>
      <br>
      <br>
+     <title><bold>日记</bold>
+     </title> 
+          
 </body>
 </html>
