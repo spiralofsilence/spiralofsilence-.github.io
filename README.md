@@ -5,10 +5,6 @@
      </title>     
      </head>
      <body>
-     <br>
-     <br>
-     <br>
-     <br>
      <br>
      <br>
     <center> 我亦留此地。</center><br>
